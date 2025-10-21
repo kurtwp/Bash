@@ -24,4 +24,4 @@ with open(outPut, 'w') as f:
                         f.write(result.stdout)
                         i += 1
 print(f"{i} File Searched!")
-print("Calls can be found in file : " + outPut)
+print("Calls can be found in file: " + outPut)
